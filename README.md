@@ -7,16 +7,16 @@ An end-to-end data analysis project exploring the global Electric Vehicle (EV) m
 ## Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](Sample/Executive Summary.png)
+![Executive Summary](Sample/01_executive_summary.png)
 
 ### Sales Trend Analysis
-![Sales Trend](Sample/Sales Trend Analysis.png)
+![Sales Trend](Sample/02_sales_trend_analysis.png)
 
 ### Market Intelligence
-![Market Intelligence](Sample/Market Intelligence.png)
+![Market Intelligence](Sample/03_market_intelligence.png)
 
 ### Brand Performance
-![Brand Performance](Sample/Brand Analysis.png)
+![Brand Performance](Sample/04_brand_analysis.png)
 
 ---
 
